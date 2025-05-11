@@ -1,9 +1,11 @@
 # post-install
 
 NeRO WINDOWS POST-INSTALL Script (V1.5)
-Lo script NeRO WINDOWS POST-INSTALL V1.5 è progettato per automatizzare una serie di operazioni di post-installazione e ottimizzazione su Windows, facilitando la configurazione del sistema e l'installazione di applicazioni e risorse comuni. Di seguito sono elencate le principali funzionalità e operazioni svolte dallo script:
+
+Lo script è progettato per automatizzare una serie di operazioni di post-installazione e ottimizzazione su Windows, facilitando la configurazione del sistema e l'installazione di applicazioni e risorse comuni. Di seguito sono elencate le principali funzionalità e operazioni svolte dallo script:
 
 Funzionalità principali:
+
 Elevazione privilegiata:
 
 Verifica e, se necessario, esegue lo script con privilegi di amministratore.
